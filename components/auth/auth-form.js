@@ -41,7 +41,7 @@ function AuthForm() {
         email: enteredEmail,
         password: enteredPassword
       })
-      
+
       if (!result.error) {
         // set some auth state
       }
